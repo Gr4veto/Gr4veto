@@ -2,10 +2,11 @@
 - 📚 Estudante de engenharia elétrica(UFRN)
 - 📚 Técnico em eletrônica(IFRN)
 - ❤ Amante da tencologia com carinho especial pela robótica
+
 <div align="center">
   <a href="https://github.com/Gr4veto">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gr4veto&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr4veto&layout=compact&langs_count=7&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gr4veto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr4veto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="graveto-ino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
