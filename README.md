@@ -8,9 +8,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr4veto&layout=compact&langs_count=7&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="graveto-ino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="graveto-ino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="graveto-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
   <img align="center" alt="graveto-cpp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="graveto-poo" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="graveto-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="Graveto-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/712342414764802073/959863980778737764/AvatarMaker.png">
 </div>
   
