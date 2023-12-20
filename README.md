@@ -1,7 +1,14 @@
 ## Oioi eu sou o Wesley, mas pode me chamar de Graveto :)
-- 📚 Estudante de engenharia elétrica(UFRN)
-- 📚 Técnico em eletrônica(IFRN)
-- ❤ Amante da tencologia com carinho especial pela robótica
+
+- 📚 Estudante de Engenharia Elétrica na UFRN, apaixonado por explorar a interseção entre eletrônica e robótica.
+- 🛠️ Atualmente aprofundando meu conhecimento em sistemas embarcados e protocolos de comunicação IoT.
+
+### Minhas Atividades:
+
+- 🧠 Especializado em sistemas microcontrolados com ESP, ATmega e PIC.
+- 📡 Estudando protocolos de comunicação IoT: LoRa, LoRaWAN e ESP-NOW.
+- 💡 Desenvolvendo aplicações para dispositivos inteligentes.
+
 
 <div align="center">
   <a href="https://github.com/Gr4veto">
